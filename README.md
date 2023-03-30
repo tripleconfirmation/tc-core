@@ -12,5 +12,10 @@ Triple Confirmation aims to revolutionise the crypto market by providing a non-c
 
 **FYI: This repo contains around 85% of the smart contract code required to run the Triple Confirmation Trading Bot. In the future we hope to open-source older versions of our trading bot contracts in our continued effort in ensuring transparency and building trust.**
 
+The following files have been partially redacted to prevent copycats:
+[/contracts/BotPool.sol](contracts/BotPool.sol)
+[/contracts/BotTrader.sol](contracts/BotTrader.sol)
+
+
     Detailed Guides and Documentation, thoon.
 
