@@ -1,0 +1,16 @@
+**/.DS_Store
+**/venv
+**/.vs
+**/__pycache__
+**/node_modules
+**/hidden.py
+**/hidden.js
+**/hidden.json
+**/hidden.txt
+**/hidden
+**/logs
+**/ngrok*
+**/.env
+**/ip_log*
+**/artifacts
+**/cache
